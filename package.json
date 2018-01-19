@@ -9,5 +9,8 @@
   "scripts": {
     "test": "node index.js",
     "bla": "blub"
+  },
+  "devDependencies": {
+    "greenkeeper-lockfile": "^1.13.0"
   }
 }
