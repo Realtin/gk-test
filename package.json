@@ -11,6 +11,6 @@
     "bla": "blub"
   },
   "devDependencies": {
-    "greenkeeper-lockfile": "^1.13.0"
+    "greenkeeper-lockfile": "git+https://github.com/Realtin/greenkeeper-lockfile.git#master"
   }
 }
