@@ -11,6 +11,6 @@
     "bla": "blub"
   },
   "devDependencies": {
-    "greenkeeper-lockfile": "git+https://github.com/Realtin/greenkeeper-lockfile.git#circleci_count_number_of_commits"
+    "greenkeeper-lockfile": "1.13.2"
   }
 }
