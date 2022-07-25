@@ -1,0 +1,21 @@
+---
+name: :sparkles: Feature
+about: Add a new Feature Request
+title: '[Feature] <title>'
+labels: 
+assignees: ''
+
+---
+
+### Description:
+<!-- A general description of what this feature should do. -->
+
+### Acceptance Criteria:
+<!-- Detailed Steps of what needs to be done in order to fufill this Feature Request. -->
+<!--This should be filled out by the Developers in the Sprint -->
+
+
+### Design:
+<!--
+Add a Screenshot and the Link to the Figma Design
+-->
