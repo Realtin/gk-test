@@ -16,10 +16,10 @@ assignees: ''
 
 ### 🧱 Dependencies/Blockers:
 <!-- Check what applies and list blockers in the notes-->
-- [] No blockers at all 🚀
-- [] Minor blockers only 🦔
-- [] Major blockers ahead 🦖
-- [] This issue blocks another issue 🛂
+- [ ] No blockers at all 🚀
+- [ ] Minor blockers only 🦔
+- [ ] Major blockers ahead 🦖
+- [ ] This issue blocks another issue 🛂
 
 Notes: 
 
@@ -30,9 +30,9 @@ Notes:
 <!-- Add a Screenshot and the Link to the Figma Design -->
 
 ### 🔢 Estimations
-- [] 1 - Not Complex at all
-- [] 2
-- [] 3 - Moderatly complex but totally doable
-- [] 5
-- [] 8
-- [] 13 - Very complex but doable if we split this into multiple Tickets
+- [ ] 1 - Not Complex at all
+- [ ] 2
+- [ ] 3 - Moderatly complex but totally doable
+- [ ] 5
+- [ ] 8
+- [ ] 13 - Very complex but doable if we split this into multiple Tickets
