@@ -1,21 +1,38 @@
 ---
 name: :sparkles: Feature
 about: Add a new Feature Request
-title: '[Feature] <title>'
+title: ' '
 labels: 
 assignees: ''
 
 ---
 
-### Description:
+### 📝 Description:
 <!-- A general description of what this feature should do. -->
 
-### Acceptance Criteria:
-<!-- Detailed Steps of what needs to be done in order to fufill this Feature Request. -->
+### ✅ Acceptance Criteria:
+<!-- Detailed Steps of what needs to be done in order to fulfill this Feature Request. -->
 <!--This should be filled out by the Developers in the Sprint -->
 
+### 🧱 Dependencies/Blockers:
+<!-- Check what applies and list blockers in the notes-->
+- [] No blockers at all 🚀
+- [] Minor blockers only 🦔
+- [] Major blockers ahead 🦖
+- [] This issue blocks another issue 🛂
 
-### Design:
-<!--
-Add a Screenshot and the Link to the Figma Design
--->
+Notes: 
+
+### 👯 Related issues
+<!-- List any other Tickets that may be connected-->
+
+### 💎 Design:
+<!-- Add a Screenshot and the Link to the Figma Design -->
+
+### 🔢 Estimations
+- [] 1 - Not Complex at all
+- [] 2
+- [] 3 - Moderatly complex but totally doable
+- [] 5
+- [] 8
+- [] 13 - Very complex but doable if we split this into multiple Tickets
