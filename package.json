@@ -2,15 +2,19 @@
   "dependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "hapi": "17.2.0",
-    "neighbourhoodie-test-package": "^5.0.0",
-    "npm": "5.6.0",
-    "test-dep": "1.5.0"
+    "neighbourhoodie-test-package": "^67.0.0",
+    "npm": "7.21.0",
+    "test-dep": "1.5.0",
+    "@snyk/protect": "latest"
   },
   "scripts": {
     "test": "node index.js",
-    "bla": "blub"
+    "bla": "blub",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "devDependencies": {
     "greenkeeper-lockfile": "1.13.2"
-  }
+  },
+  "snyk": true
 }
