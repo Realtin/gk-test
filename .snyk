@@ -1,0 +1,80 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > tar-pack > debug:
+        patched: '2022-09-29T20:08:54.842Z'
+  'npm:extend:20180424':
+    - npm > request > extend:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > extend:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > extend:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > extend:
+        patched: '2022-09-29T20:08:54.842Z'
+  'npm:hoek:20180212':
+    - npm > request > hawk > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > request > hawk > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > request > hawk > sntp > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > hawk > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > hawk > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > hawk > sntp > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > sntp > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-09-29T20:08:54.842Z'
+  SNYK-JS-LODASH-567746:
+    - neighbourhoodie-test-package > lodash:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > async > lodash:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > async > lodash:
+        patched: '2022-09-29T20:08:54.842Z'
+  'npm:lodash:20180130':
+    - npm > cli-table2 > lodash:
+        patched: '2022-09-29T20:08:54.842Z'
+  'npm:stringstream:20180511':
+    - npm > request > stringstream:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-registry-client > request > stringstream:
+        patched: '2022-09-29T20:08:54.842Z'
+    - npm > npm-lifecycle > node-gyp > request > stringstream:
+        patched: '2022-09-29T20:08:54.842Z'
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > stringstream:
+        patched: '2022-09-29T20:08:54.842Z'
+  'npm:tough-cookie:20170905':
+    - neighbourhoodie-test-package > webpack > watchpack > chokidar > fsevents > node-pre-gyp > request > tough-cookie:
+        patched: '2022-09-29T20:08:54.842Z'
